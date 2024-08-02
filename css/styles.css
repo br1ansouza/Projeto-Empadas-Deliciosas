@@ -161,10 +161,12 @@ input, textarea {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    
 }
 
 .profile-time {
     text-align: center;
+    
 }
 
 .profile-img {
